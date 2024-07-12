@@ -10,6 +10,8 @@
 
 💬 Ask me about anything tech-related or my transition from Biomedical Engineering to Web Development.
 
+❤️‍🔥  My others passions are technology, cars and engines.
+
 ## Skills
 
 ### Languages & Tools
