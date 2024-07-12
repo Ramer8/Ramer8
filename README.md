@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ramiro
 
-![Profile Banner](https://github.com/Ramer8/Ramer8/blob/main/devMac.avif)
+![Profile Banner](https://github.com/Ramer8/Ramer8/blob/main/devMac.jpg)
 
 ## About Me
 
