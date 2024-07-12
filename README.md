@@ -21,28 +21,28 @@
 
 ## Projects
 
-### [Project 1](https://github.com/yourusername/project1)
+### [Mobility App](https://github.com/Ramer8/Mobility-API-Frontend)
 
-A brief description of your project. What it does, the technologies used, and any other relevant details.
+Then register for the application and log in, users can hire a service to transport people paying a price for it.
+The registered user can search for a destination, choose between different types of cars and make the trip. A driver responds to the request and picks up the passenger, once the trip is completed, they can rate the driver. Users must complete their profile and choose the method of payment. They can also access their travel history.
 
-### [Project 2](https://github.com/yourusername/project2)
+### [Social Media](https://github.com/Ramer8/Social-Media-Frontend)
 
-A brief description of your project. What it does, the technologies used, and any other relevant details.
+Is a SPA (single-page application) with react router dom to organize the routes. The frontend is already connected to mongoDB data base created in Social Media Backend. The data showed or the new users create are created in existing mongoDB data base.
 
-### [Project 3](https://github.com/yourusername/project3)
+### [Appointment API](https://github.com/Ramer8/Appointment-API-Frontend)
 
-A brief description of your project. What it does, the technologies used, and any other relevant details.
+The users can register in the application, log in and access their personal area. area. Within their area, they will be able to view a list of scheduled appointments for tattoo and piercing services, as well as create new appointments for tattoo and piercing services, as well as create new appointments for different services offered by the services offered by the studio.
 
 ## Contact
 
 📫 **How to reach me:**
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Email: [ramirolpoblete@gmail.com](mailto:ramirolpoblete@gmail.com)
+- LinkedIn: [ramiropoblete](https://www.linkedin.com/in/ramiropoblete/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat)
 
 ---
 
-⭐️ From [Your Username](https://github.com/yourusername)
+⭐️ From [Ramer8](https://github.com/ramer8)
