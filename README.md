@@ -6,11 +6,11 @@
 
 👨‍💻 I am a passionate Full Stack Developer with a background in Biomedical Engineering. I recently completed a Full Stack Development Bootcamp, where I honed my skills in modern backend and frontend technologies.
 
-🌱 I’m currently learning more about advanced React patterns and serverless architectures.
+🌱 I’m currently learning more about Mirth Connect.
 
 💬 Ask me about anything tech-related or my transition from Biomedical Engineering to Web Development.
 
-❤️‍🔥  My others passions are technology, cars and engines.
+❤️‍🔥 My others passions are technology, cars and engines.
 
 ## Skills
 
